@@ -13,6 +13,6 @@ To write a python program to find the rank of a matrix
 <img width="1237" height="509" alt="Screenshot 2026-05-28 164304" src="https://github.com/user-attachments/assets/b345a787-abca-4a1b-b6dd-c532c2ac53ec" />
 ## Output:
 <img width="1240" height="159" alt="image" src="https://github.com/user-attachments/assets/223ce53f-4201-4883-896a-2ab676030678" />
-## Result:
+Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
